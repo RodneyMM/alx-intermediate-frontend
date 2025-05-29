@@ -1,0 +1,7 @@
+To install SASS these are the steps I took:
+
+1. Node 20.16 installation using the command,
+    $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+2. SASS installation:
+    npm install sass -v 3.7.4
